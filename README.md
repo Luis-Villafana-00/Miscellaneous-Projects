@@ -10,4 +10,6 @@
 
 My favorite part:
 
+<kbd>
 <img width="1566" height="910" alt="image" src="https://github.com/user-attachments/assets/e4b513f3-e921-43c3-9b64-0cbb647e0e50" />
+</kbd>
